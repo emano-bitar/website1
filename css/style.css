@@ -1,0 +1,50 @@
+.div1{
+    width :255px;
+    height:200px;
+    border : 1px  solid  grey ;
+    text-align: center;
+    float: left;
+}
+.div2{
+    width :255px;
+    height:200px;
+    border : 1px  solid  grey ;
+    text-align: center;
+    float: left;
+}
+.div3{
+    width :255px;
+    height:200px;
+    border : 1px  solid  grey ;
+    text-align: center;
+    float: left;
+}
+.p1 {
+    color: grey ;
+    font-size: 19px ;
+}
+.a1{
+    text-decoration: none;
+    color : rgb(109, 109, 241);
+
+}
+.div1:hover {
+background-color: rgb(80, 80, 87);
+}
+.div2:hover{
+    background-color: rgb(80, 80, 87);
+
+}
+.div3:hover{
+    background-color: rgb(80, 80, 87);
+
+}
+.div1:hover .fh2{
+    color: aliceblue;
+}
+.div2:hover .fh2{
+    color: aliceblue;
+}
+.div3:hover .fh2{
+    color: aliceblue;
+}
